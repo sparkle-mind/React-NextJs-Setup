@@ -1,0 +1,21 @@
+======== REACTJS INSTALATION ========
+
+-- download Nodejs
+== run below line in default cmd like ... C:\Users\Admin>
+
+1) npm install -g create-react-app  ---> create/install library on your system
+
+2) create-react-app --version    ---> check for react install on system or not/ check version of react?
+
+now you can create react app on anywhere/ any drive/folder 
+
+-> we can create react app on desktop --> sammmmmm
+3) create-react-app <project-name>  ex.--->  C:\Users\Admin\Desktop\sammmmmm> create-react-app demo-react
+
+4) npm start   ---> for open website u move on localhost:3000 
+
+					(You can now view demo-react in the browser.      
+
+ 					 Local:            http://localhost:3000        
+  					  On Your Network:  http://192.168.1.60:3000     
+					)
